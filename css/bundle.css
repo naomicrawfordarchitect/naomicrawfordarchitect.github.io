@@ -9,6 +9,33 @@
     color: #888;
 }
 
+/* Tweaks */
+#about, #contact {
+    padding-top: 20px;
+}
+#navigation-table {
+    width: 100%;
+}
+/* #navigation-buttons {
+    text-align: right;
+} */
+
+/* Cost Estimator */
+.cost-estimator {
+    position: relative;
+    display: block;
+    text-align: center;
+    overflow: hidden;
+    padding-top: 75px;
+    z-index: 0;
+    background: #444;
+    min-height: 700px;
+}
+.cost-estimator h1 {
+    color: #FFF;
+    padding: 50px;
+}
+
 /* Google forms */
 .ss-question-list {
     padding: 0;
@@ -4814,7 +4841,8 @@ b, strong {
 .nk-subtitle {
     font-size: .93rem;
     letter-spacing: .2em;
-    margin-bottom: 1.1rem
+    margin-top: 1.8rem;
+    opacity: 0.5;
 }
 
 .nk-subtitle, .nk-subtitle-2 {
@@ -6607,7 +6635,7 @@ b, strong {
 }
 
 .nk-header-title h1.nk-title {
-    line-height: 1.18
+    line-height: 1.3
 }
 
 .nk-footer {
