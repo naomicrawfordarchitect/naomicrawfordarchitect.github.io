@@ -28,14 +28,14 @@ layout: default
     </div>
 
     <div>
-        <a class="nk-header-title-scroll-down text-white" href="#nk-header-title-scroll-down">
+        <a class="nk-header-title-scroll-down text-white" href="#about-us">
             <span class="pe-7s-angle-down"></span>
         </a>
     </div>
 
 </div>
 
-<div id="nk-header-title-scroll-down"></div>
+<div id="about-us"></div>
 
 <div class="bg-white" id="about">
     <div class="container">
@@ -132,7 +132,6 @@ layout: default
     <div class="container">
     <div class="nk-portfolio-list nk-isotope nk-isotope-3-cols">
 
-
         <div class="nk-isotope-item" data-filter="Mockup">
             <div class="nk-portfolio-item nk-portfolio-item-square nk-portfolio-item-info-style-1">
                 <a href="portfolio-single.html" class="nk-portfolio-item-link"></a>
@@ -164,122 +163,11 @@ layout: default
             </div>
         </div>
 
-
-        <div class="nk-isotope-item" data-filter="Branding">
-            <div class="nk-portfolio-item nk-portfolio-item-square nk-portfolio-item-info-style-1">
-                <a href="portfolio-single.html" class="nk-portfolio-item-link"></a>
-                <div class="nk-portfolio-item-image">
-                    <div style="background-image: url('./images/portfolio-5-sm.jpg');"></div>
-                </div>
-                <div class="nk-portfolio-item-info nk-portfolio-item-info-center text-xs-center">
-                    <div>
-                        <h2 class="portfolio-item-title h3">Minimal Bag</h2>
-                        <div class="portfolio-item-category">Branding</div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-
-        <div class="nk-isotope-item" data-filter="Design">
-            <div class="nk-portfolio-item nk-portfolio-item-square nk-portfolio-item-info-style-1">
-                <a href="portfolio-single.html" class="nk-portfolio-item-link"></a>
-                <div class="nk-portfolio-item-image">
-                    <div style="background-image: url('./images/portfolio-9-sm.jpg');"></div>
-                </div>
-                <div class="nk-portfolio-item-info nk-portfolio-item-info-center text-xs-center">
-                    <div>
-                        <h2 class="portfolio-item-title h3">Clean &amp; Groovy</h2>
-                        <div class="portfolio-item-category">Design</div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-
-        <div class="nk-isotope-item" data-filter="Design">
-            <div class="nk-portfolio-item nk-portfolio-item-square nk-portfolio-item-info-style-1">
-                <a href="portfolio-single.html" class="nk-portfolio-item-link"></a>
-                <div class="nk-portfolio-item-image">
-                    <div style="background-image: url('./images/portfolio-3-sm.jpg');"></div>
-                </div>
-                <div class="nk-portfolio-item-info nk-portfolio-item-info-center text-xs-center">
-                    <div>
-                        <h2 class="portfolio-item-title h3">Minimal Mobile App</h2>
-                        <div class="portfolio-item-category">Design</div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-
-        <div class="nk-isotope-item" data-filter="Print">
-            <div class="nk-portfolio-item nk-portfolio-item-square nk-portfolio-item-info-style-1">
-                <a href="portfolio-single.html" class="nk-portfolio-item-link"></a>
-                <div class="nk-portfolio-item-image">
-                    <div style="background-image: url('./images/portfolio-8-sm.jpg');"></div>
-                </div>
-                <div class="nk-portfolio-item-info nk-portfolio-item-info-center text-xs-center">
-                    <div>
-                        <h2 class="portfolio-item-title h3">White T-Shirt</h2>
-                        <div class="portfolio-item-category">Print</div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-
-        <div class="nk-isotope-item" data-filter="Branding">
-            <div class="nk-portfolio-item nk-portfolio-item-square nk-portfolio-item-info-style-1">
-                <a href="portfolio-single.html" class="nk-portfolio-item-link"></a>
-                <div class="nk-portfolio-item-image">
-                    <div style="background-image: url('./images/portfolio-2-sm.jpg');"></div>
-                </div>
-                <div class="nk-portfolio-item-info nk-portfolio-item-info-center text-xs-center">
-                    <div>
-                        <h2 class="portfolio-item-title h3">Business Card</h2>
-                        <div class="portfolio-item-category">Branding</div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-
-        <div class="nk-isotope-item" data-filter="Photography">
-            <div class="nk-portfolio-item nk-portfolio-item-square nk-portfolio-item-info-style-1">
-                <a href="portfolio-single.html" class="nk-portfolio-item-link"></a>
-                <div class="nk-portfolio-item-image">
-                    <div style="background-image: url('./images/portfolio-6-sm.jpg');"></div>
-                </div>
-                <div class="nk-portfolio-item-info nk-portfolio-item-info-center text-xs-center">
-                    <div>
-                        <h2 class="portfolio-item-title h3">Heja Stockholm</h2>
-                        <div class="portfolio-item-category">Photography</div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-
-        <div class="nk-isotope-item" data-filter="Photography">
-            <div class="nk-portfolio-item nk-portfolio-item-square nk-portfolio-item-info-style-1">
-                <a href="portfolio-single.html" class="nk-portfolio-item-link"></a>
-                <div class="nk-portfolio-item-image">
-                    <div style="background-image: url('./images/portfolio-12-sm.jpg');"></div>
-                </div>
-                <div class="nk-portfolio-item-info nk-portfolio-item-info-center text-xs-center">
-                    <div>
-                        <h2 class="portfolio-item-title h3">Paper Bag</h2>
-                        <div class="portfolio-item-category">Photography</div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
     </div>
     </div>
     <div class="nk-gap-4 mt-15"></div>
 </div>
+
 
 <!-- START: Reviews -->
 <div class="nk-box bg-dark-1">
@@ -299,95 +187,11 @@ layout: default
                         <div class="nk-gap-3 mt-10"></div>
                     </div>
                 </div>
-                <div>
-                    <div>
-                        <blockquote class="nk-blockquote-style-1 text-white">
-                            <p>Outstanding job and exceeded all expectations. It was a pleasure to work with them on a sizable first project and am looking forward to start the next one asap.</p>
-                            <cite>Michael Hopkins</cite>
-                        </blockquote>
-                        <div class="nk-gap-3 mt-10"></div>
-                    </div>
-                </div>
-                <div>
-                    <div>
-                        <blockquote class="nk-blockquote-style-1 text-white">
-                            <p>Outstanding job and exceeded all expectations. It was a pleasure to work with them on a sizable first project and am looking forward to start the next one asap.</p>
-                            <cite>Michael Hopkins</cite>
-                        </blockquote>
-                        <div class="nk-gap-3 mt-10"></div>
-                    </div>
-                </div>
             </div>
         </div>
         <!-- END: Carousel -->
     </div>
     <div class="nk-gap-4 mt-3"></div>
-</div>
-
-<!-- START: Partners -->
-<div class="bg-white">
-    <div class="container">
-        <div class="nk-carousel-2 nk-carousel-x4 nk-carousel-no-margin nk-carousel-all-visible">
-            <div class="nk-carousel-inner">
-                <div>
-                    <div>
-                        <div class="nk-box-1">
-                            <img src="./images/partner-logo-1-dark.png" alt="" class="nk-img-fit">
-                        </div>
-                    </div>
-                </div>
-                <div>
-                    <div>
-                        <div class="nk-box-1">
-                            <img src="./images/partner-logo-2-dark.png" alt="" class="nk-img-fit">
-                        </div>
-                    </div>
-                </div>
-                <div>
-                    <div>
-                        <div class="nk-box-1">
-                            <img src="./images/partner-logo-3-dark.png" alt="" class="nk-img-fit">
-                        </div>
-                    </div>
-                </div>
-                <div>
-                    <div>
-                        <div class="nk-box-1">
-                            <img src="./images/partner-logo-4-dark.png" alt="" class="nk-img-fit">
-                        </div>
-                    </div>
-                </div>
-                <div>
-                    <div>
-                        <div class="nk-box-1">
-                            <img src="./images/partner-logo-5-dark.png" alt="" class="nk-img-fit">
-                        </div>
-                    </div>
-                </div>
-                <div>
-                    <div>
-                        <div class="nk-box-1">
-                            <img src="./images/partner-logo-6-dark.png" alt="" class="nk-img-fit">
-                        </div>
-                    </div>
-                </div>
-                <div>
-                    <div>
-                        <div class="nk-box-1">
-                            <img src="./images/partner-logo-7-dark.png" alt="" class="nk-img-fit">
-                        </div>
-                    </div>
-                </div>
-                <div>
-                    <div>
-                        <div class="nk-box-1">
-                            <img src="./images/partner-logo-8-dark.png" alt="" class="nk-img-fit">
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
 </div>
 
 <!-- START: Blog -->
@@ -411,7 +215,6 @@ layout: default
         <!-- START: Carousel -->
         <div class="nk-carousel-2 nk-carousel-x2 nk-carousel-no-margin nk-carousel-all-visible nk-blog-isotope" data-dots="true">
             <div class="nk-carousel-inner">
-
 
                 <div>
                     <div>
@@ -438,110 +241,6 @@ layout: default
                     </div>
                 </div>
 
-
-                <div>
-                    <div>
-                        <div class="pl-15 pr-15">
-                            <div class="nk-blog-post">
-                                <div class="nk-post-thumb">
-                                    <a href="blog-single.html">
-                                        <img src="./images/post-3-mid.jpg" alt="" class="nk-img-stretch">
-                                    </a>
-                                    <div class="nk-post-category"><a href="#">Nature</a></div>
-                                </div>
-                                <h2 class="nk-post-title h4"><a href="blog-single.html">The History of Nature</a></h2>
-
-                                <div class="nk-post-date">
-                                    August 27, 2016
-                                </div>
-
-                                <div class="nk-post-text">
-                                    <p>Third is fly. From one under in itself two waters, all own. Said male shall greater own grass.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="nk-gap-1"></div>
-                    </div>
-                </div>
-
-
-                <div>
-                    <div>
-                        <div class="pl-15 pr-15">
-                            <div class="nk-blog-post">
-                                <div class="nk-post-thumb">
-                                    <a href="blog-single.html">
-                                        <img src="./images/post-4-mid.jpg" alt="" class="nk-img-stretch">
-                                    </a>
-                                    <div class="nk-post-category"><a href="#">Branding</a></div>
-                                </div>
-                                <h2 class="nk-post-title h4"><a href="blog-single.html">Are you doing the Right Way?</a></h2>
-
-                                <div class="nk-post-date">
-                                    August 14, 2016
-                                </div>
-
-                                <div class="nk-post-text">
-                                    <p>Which all, morning isn't. Female and own living dry, and morning lesser first he stars under years thing.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="nk-gap-1"></div>
-                    </div>
-                </div>
-
-
-                <div>
-                    <div>
-                        <div class="pl-15 pr-15">
-                            <div class="nk-blog-post">
-                                <div class="nk-post-thumb">
-                                    <a href="blog-single.html">
-                                        <img src="./images/post-5-mid.jpg" alt="" class="nk-img-stretch">
-                                    </a>
-                                    <div class="nk-post-category"><a href="#">Design</a></div>
-                                </div>
-                                <h2 class="nk-post-title h4"><a href="blog-single.html">Ten things about Photography</a></h2>
-
-                                <div class="nk-post-date">
-                                    August 14, 2016
-                                </div>
-
-                                <div class="nk-post-text">
-                                    <p>Be forth, god for rule face abundantly all our two winged made. Is whose morning female.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="nk-gap-1"></div>
-                    </div>
-                </div>
-
-
-                <div>
-                    <div>
-                        <div class="pl-15 pr-15">
-                            <div class="nk-blog-post">
-                                <div class="nk-post-thumb">
-                                    <a href="blog-single.html">
-                                        <img src="./images/post-6-mid.jpg" alt="" class="nk-img-stretch">
-                                    </a>
-                                    <div class="nk-post-category"><a href="#">Design</a></div>
-                                </div>
-                                <h2 class="nk-post-title h4"><a href="blog-single.html">Why you should Always First</a></h2>
-
-                                <div class="nk-post-date">
-                                    August 14, 2016
-                                </div>
-
-                                <div class="nk-post-text">
-                                    <p>Lights give have herb. First. Seed lesser his a fruit. Stars good divide fish appear don't, third deep.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="nk-gap-1"></div>
-                    </div>
-                </div>
-
             </div>
         </div>
         <!-- END: Carousel -->
@@ -549,6 +248,20 @@ layout: default
     <div class="nk-gap-5 mt-20"></div>
 </div>
 <!-- END: Blog -->
+
+
+<!-- Cost Estimator -->
+<div id="estimator"></div>
+
+<div class="nk-box bg-dark-1">
+    <div class="container-fluid">
+        <div class="cost-estimator">
+            <h1>Cost Estimator</h1>
+            <div id="app"></div>
+        </div>
+    </div>
+</div>
+
 
 <!-- START: Contact Info -->
 <div class="container" id="contact">
@@ -606,8 +319,6 @@ layout: default
 <input type="hidden" name="draftResponse" value="[null,null,&quot;5045223902075283324&quot;]
 ">
 <input type="hidden" name="pageHistory" value="0">
-
-
 
 <input type="hidden" name="fbzx" value="5045223902075283324">
 <div class="ss-send-email-receipt" style="margin-bottom: 4px;" dir="ltr"><label for="emailReceipt" style="display:inline;"></label></div>
