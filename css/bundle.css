@@ -16,9 +16,27 @@
 #navigation-table {
     width: 100%;
 }
-/* #navigation-buttons {
-    text-align: right;
-} */
+#sticky-wrapper.is-sticky .nk-navbar {
+    background: #FFF;
+}
+#sticky-wrapper.is-sticky .nk-navbar a {
+    color: #373a3c;
+}
+#sticky-wrapper:not(.is-sticky) .nk-icon-burger {
+    color: #FFF;
+}
+#sticky-wrapper .nav-logo-light {
+    display: block;
+}
+#sticky-wrapper .nav-logo-dark {
+    display: none;
+}
+#sticky-wrapper.is-sticky .nav-logo-light {
+    display: none;
+}
+#sticky-wrapper.is-sticky .nav-logo-dark {
+    display: block;
+}
 
 /* Cost Estimator */
 .cost-estimator {
