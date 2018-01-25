@@ -6,6 +6,7 @@ const gulp = require('gulp'),
     concat = require('gulp-concat'),
     babelify = require('babelify'),
     browserify = require('browserify'),
+    browserifyshim = require('browserify-shim'),
     buffer = require('vinyl-buffer'),
     del = require('del'),
     uglify = require('gulp-uglify'),
@@ -129,6 +130,7 @@ function transpile(files) {
         .pipe(tap(file => {
             file.contents = browserify(file.path, {debug: true})
                 .transform('babelify')
+                .transform(browserifyshim)
                 .bundle()
             }
         ));

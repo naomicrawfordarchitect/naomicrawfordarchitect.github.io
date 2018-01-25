@@ -1,15 +1,14 @@
 {
-  "name": "react-project-template",
+  "name": "canbury-architects",
   "version": "1.0.0",
-  "description": "React project template",
+  "description": "Canbury Architects estimator",
   "main": "app.js",
   "scripts": {
-    "test": "./node_modules/.bin/karma start"
   },
   "author": "Rob Crawford",
   "repository": {
     "type": "git",
-    "url": "https://github.com/robCrawford/react-project-template"
+    "url": "https://github.com/robCrawford/canbury-architects"
   },
   "license": "MIT",
   "devDependencies": {
@@ -20,6 +19,7 @@
     "babel-preset-react": "^6.24.1",
     "babelify": "^8.0.0",
     "browserify": "^14.5.0",
+    "browserify-shim": "^3.8.14",
     "del": "^3.0.0",
     "eslint": "^4.9.0",
     "eslint-config-standard": "^10.2.1",
@@ -44,5 +44,9 @@
   "dependencies": {
     "react": "^16.0.0",
     "react-dom": "^16.0.0"
+  },
+  "browserify-shim": {
+    "react": "global:React",
+    "react-dom": "global:ReactDOM"
   }
 }
