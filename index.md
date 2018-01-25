@@ -46,10 +46,12 @@ layout: default
                 <h2 class="display-4">Canbury Architects</h2>
                 <div class="nk-gap mnt-5"></div>
 
-                <p>We are a new design studio based in USA. We have over 20 years of combined experience, and know a thing or two about designing websites and mobile apps. Clever use of technology and lean processes enable us to work faster and smarter.
+                <p>Canbury Architects provides architectural design services for residential and commercial projects including planning and building regulation applications.
+                </p>
+                <p>If you are considering extending or converting your property, the right guidance can be crucial for bringing your project in on budget and obtaining the necessary approval.
                 </p>
 
-                <img src="./images/about-me-signature.png" alt="" class="nk-img-fit">
+                <img src="./images/riba-logo.svg" alt="" class="riba-logo">
 
                 <div class="nk-gap-4 mt-25"></div>
             </div>
@@ -69,8 +71,8 @@ layout: default
                         <span class="pe-7s-portfolio"></span>
                     </div>
                     <div class="nk-ibox-cont">
-                        <div class="nk-ibox-title">548</div>
-                        <div class="nk-ibox-text">Projects Completed</div>
+                        <div class="nk-ibox-title">Planning Permission</div>
+                        <div class="nk-ibox-text">What you need to know</div>
                     </div>
                 </div>
             </div>
@@ -80,8 +82,8 @@ layout: default
                         <span class="pe-7s-clock"></span>
                     </div>
                     <div class="nk-ibox-cont">
-                        <div class="nk-ibox-title">1465</div>
-                        <div class="nk-ibox-text">Working Hours</div>
+                        <div class="nk-ibox-title">Building Regulations</div>
+                        <div class="nk-ibox-text">How to pass inspection</div>
                     </div>
                 </div>
             </div>
@@ -91,8 +93,8 @@ layout: default
                         <span class="pe-7s-star"></span>
                     </div>
                     <div class="nk-ibox-cont">
-                        <div class="nk-ibox-title">612</div>
-                        <div class="nk-ibox-text">Positive Feedbacks</div>
+                        <div class="nk-ibox-title">Budget</div>
+                        <div class="nk-ibox-text">We liaise with your builder</div>
                     </div>
                 </div>
             </div>
@@ -102,8 +104,8 @@ layout: default
                         <span class="pe-7s-like"></span>
                     </div>
                     <div class="nk-ibox-cont">
-                        <div class="nk-ibox-title">735</div>
-                        <div class="nk-ibox-text">Happy Clients</div>
+                        <div class="nk-ibox-title">Permitted Development</div>
+                        <div class="nk-ibox-text">You may not need planning</div>
                     </div>
                 </div>
             </div>
@@ -140,8 +142,8 @@ layout: default
                 </div>
                 <div class="nk-portfolio-item-info nk-portfolio-item-info-center text-xs-center">
                     <div>
-                        <h2 class="portfolio-item-title h3">Vinyl Record</h2>
-                        <div class="portfolio-item-category">Mockup</div>
+                        <h2 class="portfolio-item-title h3">Loft Extension</h2>
+                        <div class="portfolio-item-category">55 Clifton Road, Kingston</div>
                     </div>
                 </div>
             </div>
@@ -156,8 +158,8 @@ layout: default
                 </div>
                 <div class="nk-portfolio-item-info nk-portfolio-item-info-center text-xs-center">
                     <div>
-                        <h2 class="portfolio-item-title h3">Modern T-Shirt</h2>
-                        <div class="portfolio-item-category">Print</div>
+                        <h2 class="portfolio-item-title h3">Rear extension and layout alterations</h2>
+                        <div class="portfolio-item-category">44 Park Road, Kingston</div>
                     </div>
                 </div>
             </div>
@@ -181,7 +183,7 @@ layout: default
                 <div>
                     <div>
                         <blockquote class="nk-blockquote-style-1 text-white">
-                            <p>Outstanding job and exceeded all expectations. It was a pleasure to work with them on a sizable first project and am looking forward to start the next one asap.</p>
+                            <p>Outstanding job and a great result. It was a pleasure to work with Naomi on a sizable first project.</p>
                             <cite>Michael Hopkins</cite>
                         </blockquote>
                         <div class="nk-gap-3 mt-10"></div>
@@ -226,14 +228,14 @@ layout: default
                                     </a>
                                     <div class="nk-post-category"><a href="#">Nature</a></div>
                                 </div>
-                                <h2 class="nk-post-title h4"><a href="blog-single.html">Something I need to tell you</a></h2>
+                                <h2 class="nk-post-title h4"><a href="blog-single.html">2018 changes to building regulations</a></h2>
 
                                 <div class="nk-post-date">
-                                    September 18, 2016
+                                    January 22, 2018
                                 </div>
 
                                 <div class="nk-post-text">
-                                    <p>That female isn't midst divide kind upon seas lights greater green creature lights brought.</p>
+                                    <p>Donec orci sem, pretium ac dolor et, faucibus faucibus mauris. Etiam,pellentesque faucibus. Vestibulum gravida volutpat ipsum non ultrices.</p>
                                 </div>
                             </div>
                         </div>

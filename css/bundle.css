@@ -22,6 +22,16 @@
 #sticky-wrapper.is-sticky .nav-logo-dark {
     display: block;
 }
+#nav-mobile {
+    height: 500px;
+}
+#nav-mobile .nk-nav {
+    text-align: left;
+}
+.riba-logo {
+    height: 20px;
+    margin-top: 35px;
+}
 
 /* Cost Estimator */
 .cost-estimator {

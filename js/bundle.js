@@ -1,7 +1,10 @@
 $(function() {
 
-    $(document).on('click', 'a[href^="#"]', function (e) {
+    $(document).click(closeMobileNav);
+
+    $('a[href^="#"]').click(function (e) {
         e.preventDefault();
+        e.stopPropagation();
 
         var tag = $.attr(this, 'href'),
             pos = tag && $(tag).offset(),
