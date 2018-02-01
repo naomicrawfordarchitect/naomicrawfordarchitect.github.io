@@ -1,7 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Filter from "./modules/Filter";
-import movies from "./modules/movies";
+import Extensions from "./modules/Extensions";
 
 
 document.addEventListener(
@@ -9,7 +8,7 @@ document.addEventListener(
     () => {
         ReactDOM.render(
             <div>
-                <Filter items={ movies } />
+                <Extensions />
             </div>,
             document.getElementById('app')
         );
