@@ -46,11 +46,10 @@ layout: default
                 <h2 class="display-4">Canbury Architects</h2>
                 <div class="nk-gap mnt-5"></div>
 
-                <p>Canbury Architects provides architectural design services for residential and commercial projects including planning and building regulation applications.
+                <p>Canbury Architects is based in Kingston-upon-Thames and provides architectural design services for residential projects.
                 </p>
-                <p>If you are considering extending or converting your property, the right guidance can be crucial for bringing your project in on budget and obtaining the necessary approval.
+                <p>If you are considering extending or refurbishing your property, the right guidance can be crucial for obtaining the necessary approval and bringing your project in on budget.
                 </p>
-
                 <img src="./images/riba-logo.svg" alt="" class="riba-logo">
 
                 <div class="nk-gap-4 mt-25"></div>
@@ -59,7 +58,6 @@ layout: default
     </div>
 </div>
 
-<!-- START: Features -->
 <div class="nk-box bg-dark-1 text-white">
     <div class="bg-image bg-image-parallax" style="background-image: url('./images/bg-pattern.jpg');"></div>
     <div class="nk-gap-5 mnt-6"></div>
@@ -68,7 +66,7 @@ layout: default
             <div class="col-md-6 col-lg-3">
                 <div class="nk-ibox-1">
                     <div class="nk-ibox-icon">
-                        <span class="pe-7s-portfolio"></span>
+                        <span class="pe-7s-way"></span>
                     </div>
                     <div class="nk-ibox-cont">
                         <div class="nk-ibox-title">Planning Permission</div>
@@ -79,7 +77,7 @@ layout: default
             <div class="col-md-6 col-lg-3">
                 <div class="nk-ibox-1">
                     <div class="nk-ibox-icon">
-                        <span class="pe-7s-clock"></span>
+                        <span class="pe-7s-id"></span>
                     </div>
                     <div class="nk-ibox-cont">
                         <div class="nk-ibox-title">Building Regulations</div>
@@ -90,22 +88,22 @@ layout: default
             <div class="col-md-6 col-lg-3">
                 <div class="nk-ibox-1">
                     <div class="nk-ibox-icon">
-                        <span class="pe-7s-star"></span>
+                        <span class="pe-7s-piggy"></span>
                     </div>
                     <div class="nk-ibox-cont">
                         <div class="nk-ibox-title">Budget</div>
-                        <div class="nk-ibox-text">We liaise with your builder</div>
+                        <div class="nk-ibox-text">Maximise your build value</div>
                     </div>
                 </div>
             </div>
             <div class="col-md-6 col-lg-3">
                 <div class="nk-ibox-1">
                     <div class="nk-ibox-icon">
-                        <span class="pe-7s-like"></span>
+                        <span class="pe-7s-star"></span>
                     </div>
                     <div class="nk-ibox-cont">
                         <div class="nk-ibox-title">Permitted Development</div>
-                        <div class="nk-ibox-text">You may not need planning</div>
+                        <div class="nk-ibox-text">You may not need planning!</div>
                     </div>
                 </div>
             </div>
@@ -114,7 +112,8 @@ layout: default
     <div class="nk-gap-5 mnt-6"></div>
 </div>
 
-<!-- START: Portfolio -->
+<div id="recent"></div>
+
 <div class="nk-box bg-white" id="projects">
     <div class="nk-gap-4 mt-5"></div>
 
@@ -149,6 +148,20 @@ layout: default
             </div>
         </div>
 
+        <div class="nk-isotope-item" data-filter="Print">
+            <div class="nk-portfolio-item nk-portfolio-item-square nk-portfolio-item-info-style-1">
+                <a href="portfolio-single.html" class="nk-portfolio-item-link"></a>
+                <div class="nk-portfolio-item-image">
+                    <div style="background-image: url('./images/portfolio-4-sm.jpg');"></div>
+                </div>
+                <div class="nk-portfolio-item-info nk-portfolio-item-info-center text-xs-center">
+                    <div>
+                        <h2 class="portfolio-item-title h3">Rear extension and layout alterations</h2>
+                        <div class="portfolio-item-category">44 Park Road, Kingston</div>
+                    </div>
+                </div>
+            </div>
+        </div>
 
         <div class="nk-isotope-item" data-filter="Print">
             <div class="nk-portfolio-item nk-portfolio-item-square nk-portfolio-item-info-style-1">
@@ -196,7 +209,10 @@ layout: default
     <div class="nk-gap-4 mt-3"></div>
 </div>
 
-<!-- START: Blog -->
+
+<div id="news"></div>
+
+
 <div class="nk-box bg-gray-1" id="blog">
     <div class="nk-gap-4 mt-5"></div>
 
@@ -252,7 +268,7 @@ layout: default
 <!-- END: Blog -->
 
 
-<!-- Cost Estimator -->
+<!-- Cost Estimator
 <div id="estimator"></div>
 
 <div class="nk-box bg-dark-1">
@@ -263,7 +279,7 @@ layout: default
         </div>
     </div>
 </div>
-
+ -->
 
 <!-- START: Contact Info -->
 <div class="container" id="contact">

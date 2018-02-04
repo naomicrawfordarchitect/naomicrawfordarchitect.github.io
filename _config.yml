@@ -1,8 +1,9 @@
 
-name: robcrawford.github.io
+name: canbury-architects.github.io
 description: Website
+category_dir: /
 author:
   name: Rob Crawford
   email: robcrawford@users.noreply.github.com
-kramdown:
-  input: GFM
+permalink: pretty
+exclude: [README.md, package.json, run.sh, node_modules, estimator]
