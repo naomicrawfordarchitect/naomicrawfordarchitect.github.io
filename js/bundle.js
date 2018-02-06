@@ -26,10 +26,9 @@ $(function() {
     $(".nk-nav-close").click(closeMobileNav);
 
     function closeMobileNav(e) {
-        e && e.preventDefault();
         $(".nk-navbar-full").css({
-                "z-index": -1
-            });
+            "z-index": -1
+        });
     }
 
 });

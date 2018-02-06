@@ -190,8 +190,7 @@ layout: default
     <div class="nk-gap-5 mnt-6"></div>
     <div class="nk-gap-3"></div>
     <div class="container-fluid">
-        <!-- START: Carousel -->
-        <div class="nk-carousel nk-carousel-all-visible text-white" data-autoplay="18000" data-dots="true">
+        <div class="nk-carousel nk-carousel-all-visible text-white">
             <div class="nk-carousel-inner">
                 <div>
                     <div>
@@ -204,19 +203,18 @@ layout: default
                 </div>
             </div>
         </div>
-        <!-- END: Carousel -->
     </div>
     <div class="nk-gap-4 mt-3"></div>
 </div>
 
 
-<div id="news"></div>
+<div id="updates"></div>
 
 
 <div class="nk-box bg-gray-1" id="blog">
-    <div class="nk-gap-4 mt-5"></div>
+    <div class="nk-gap-5 mt-5"></div>
 
-    <h2 class="text-xs-center display-4">Latest News</h2>
+    <h2 class="text-xs-center display-4">Updates</h2>
 
     <div class="nk-gap mnt-6"></div>
     <div class="container">
@@ -230,40 +228,31 @@ layout: default
 
     <div class="nk-gap-2 mt-12"></div>
     <div class="container">
-        <!-- START: Carousel -->
-        <div class="nk-carousel-2 nk-carousel-x2 nk-carousel-no-margin nk-carousel-all-visible nk-blog-isotope" data-dots="true">
+
+        <div class="nk-carousel-2 nk-carousel-x2 nk-carousel-no-margin nk-carousel-all-visible nk-blog-isotope">
             <div class="nk-carousel-inner">
 
-                <div>
-                    <div>
-                        <div class="pl-15 pr-15">
-                            <div class="nk-blog-post">
-                                <div class="nk-post-thumb">
-                                    <a href="blog-single.html">
-                                        <img src="./images/post-1-mid.jpg" alt="" class="nk-img-stretch">
-                                    </a>
-                                    <div class="nk-post-category"><a href="#">Nature</a></div>
-                                </div>
-                                <h2 class="nk-post-title h4"><a href="blog-single.html">2018 changes to building regulations</a></h2>
-
-                                <div class="nk-post-date">
-                                    January 22, 2018
-                                </div>
-
-                                <div class="nk-post-text">
-                                    <p>Donec orci sem, pretium ac dolor et, faucibus faucibus mauris. Etiam,pellentesque faucibus. Vestibulum gravida volutpat ipsum non ultrices.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="nk-gap-1"></div>
+                <div class="nk-blog-post">
+                    <div class="nk-post-thumb">
+                        <a href="http://blog.planningportal.co.uk/2018/01/11/planning-application-fee-changes-pushed-into-2018/"
+                           target="_blank" class="update-img-buildings">
+                        </a>
+                    </div>
+                    <h2 class="nk-post-title h4">
+                        <a target="_blank"  href="http://blog.planningportal.co.uk/2018/01/11/planning-application-fee-changes-pushed-into-2018/">Planning application fee changes in effect from 17 January 2018</a>
+                    </h2>
+                    <div class="nk-post-date">
+                        January 11, 2018
+                    </div>
+                    <div class="nk-post-text">
+                        <p>The department of communities and local governments chief planner reveals that a 20% planning fee increase will come into effect on 17th January 2018.</p>
                     </div>
                 </div>
+                <div class="nk-gap-1"></div>
 
             </div>
         </div>
-        <!-- END: Carousel -->
     </div>
-    <div class="nk-gap-5 mt-20"></div>
 </div>
 <!-- END: Blog -->
 
@@ -299,6 +288,7 @@ layout: default
             <!-- END: Info -->
         </div>
         <div class="col-lg-7">
+            <div class="form-area-spacer"></div>
             <!-- Form -->
             <!-- Paste here from source code of google form live preview -->
             <form action="https://docs.google.com/forms/d/e/1FAIpQLSdjJeNRCdtuqKpGh7oZ9KSqmdVuVkwr0v0c1izcdaMLpeRv9Q/formResponse" method="POST" id="ss-form" target="_self" autocomplete="on" onsubmit=""><ol role="list" class="ss-question-list" style="padding-left: 0;">
