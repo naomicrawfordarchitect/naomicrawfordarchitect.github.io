@@ -50,8 +50,7 @@ layout: default
                 </p>
                 <p>If you are considering extending or refurbishing your property, the right guidance can be crucial for obtaining the necessary approval and bringing your project in on budget.
                 </p>
-                <img src="./images/riba-logo.svg" alt="" class="riba-logo">
-
+                <div class="arb-logo"></div>
                 <div class="nk-gap-4 mt-25"></div>
             </div>
         </div>
@@ -118,17 +117,6 @@ layout: default
     <div class="nk-gap-4 mt-5"></div>
 
     <h2 class="text-xs-center display-4">Recent Projects</h2>
-
-    <div class="nk-gap mnt-6"></div>
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-8 offset-lg-2">
-                <div class="text-xs-center">Donec orci sem, pretium ac dolor et, faucibus faucibus mauris. Etiam,pellentesque faucibus. Vestibulum gravida volutpat ipsum non ultrices.
-                </div>
-            </div>
-        </div>
-    </div>
-
     <div class="nk-gap-2 mt-12"></div>
     <div class="container">
     <div class="nk-portfolio-list nk-isotope nk-isotope-3-cols">
@@ -137,7 +125,7 @@ layout: default
             <div class="nk-portfolio-item nk-portfolio-item-square nk-portfolio-item-info-style-1">
                 <a href="portfolio-single.html" class="nk-portfolio-item-link"></a>
                 <div class="nk-portfolio-item-image">
-                    <div style="background-image: url('./images/portfolio-7-sm.jpg');"></div>
+                    <div style="background-image: url('./images/thumb-timber-yard.jpg');"></div>
                 </div>
                 <div class="nk-portfolio-item-info nk-portfolio-item-info-center text-xs-center">
                     <div>
@@ -152,7 +140,7 @@ layout: default
             <div class="nk-portfolio-item nk-portfolio-item-square nk-portfolio-item-info-style-1">
                 <a href="portfolio-single.html" class="nk-portfolio-item-link"></a>
                 <div class="nk-portfolio-item-image">
-                    <div style="background-image: url('./images/portfolio-4-sm.jpg');"></div>
+                    <div style="background-image: url('./images/thumb-semi.jpg');"></div>
                 </div>
                 <div class="nk-portfolio-item-info nk-portfolio-item-info-center text-xs-center">
                     <div>
@@ -195,8 +183,9 @@ layout: default
                 <div>
                     <div>
                         <blockquote class="nk-blockquote-style-1 text-white">
-                            <p>Outstanding job and a great result. It was a pleasure to work with Naomi on a sizable first project.</p>
-                            <cite>Michael Hopkins</cite>
+                            <p>Naomi did a brilliant job for us, helping my husband and I reach decisions on room layouts, and giving us ideas for design and space that worked within building regs. <br>
+                            We were delegated a tough planning officer but Naomi's negotiations helped us achieve our goal, and we are thrilled!</p>
+                            <cite>Juliette Chronnell</cite>
                         </blockquote>
                         <div class="nk-gap-3 mt-10"></div>
                     </div>
@@ -215,16 +204,6 @@ layout: default
     <div class="nk-gap-5 mt-5"></div>
 
     <h2 class="text-xs-center display-4">Updates</h2>
-
-    <div class="nk-gap mnt-6"></div>
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-8 offset-lg-2">
-                <div class="text-xs-center">Donec orci sem, pretium ac dolor et, faucibus faucibus mauris. Etiam,pellentesque faucibus. Vestibulum gravida volutpat ipsum non ultrices.
-                </div>
-            </div>
-        </div>
-    </div>
 
     <div class="nk-gap-2 mt-12"></div>
     <div class="container">
@@ -252,7 +231,9 @@ layout: default
 
             </div>
         </div>
+
     </div>
+    <div class="nk-gap-1"></div>
 </div>
 <!-- END: Blog -->
 

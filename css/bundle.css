@@ -31,9 +31,11 @@ h2.display-4 {
 #nav-mobile .nk-nav {
     text-align: left;
 }
-.riba-logo {
-    height: 20px;
-    margin-top: 35px;
+.arb-logo {
+    background: url(../images/arb-logo.png) no-repeat;
+    width: 144px;
+    height: 50px;
+    margin: 35px auto 0;
 }
 
 /* News */
@@ -74,6 +76,13 @@ h2.display-4 {
     }
     .update-img-buildings {
         background-image: url(../images/update-buildings-high.jpg);
+    }
+}
+/* Retina */
+@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
+    .arb-logo {
+        background: url(../images/arb-logo-high.png) no-repeat;
+        background-size: 144px 50px;
     }
 }
 
