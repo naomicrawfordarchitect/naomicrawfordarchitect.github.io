@@ -121,9 +121,12 @@ layout: default
     <div class="container">
     <div class="nk-portfolio-list nk-isotope nk-isotope-3-cols">
 
-        <div class="nk-isotope-item" data-filter="Mockup">
+        <div class="nk-isotope-item">
             <div class="nk-portfolio-item nk-portfolio-item-square nk-portfolio-item-info-style-1">
-                <a href="portfolio-single.html" class="nk-portfolio-item-link"></a>
+                <a href="./images/full-timber-yard.jpg"
+                   class="nk-portfolio-item-link modal-img"
+                   title="Loft Extension, 55 Clifton Road, Kingston <a href='images/full-timber-yard.jpg'>(open full size)</a>">
+               </a>
                 <div class="nk-portfolio-item-image">
                     <div style="background-image: url('./images/thumb-timber-yard.jpg');"></div>
                 </div>
@@ -136,9 +139,12 @@ layout: default
             </div>
         </div>
 
-        <div class="nk-isotope-item" data-filter="Print">
+        <div class="nk-isotope-item">
             <div class="nk-portfolio-item nk-portfolio-item-square nk-portfolio-item-info-style-1">
-                <a href="portfolio-single.html" class="nk-portfolio-item-link"></a>
+                <a href="./images/full-semi.gif"
+                   class="nk-portfolio-item-link modal-img"
+                   title="Rear extension and layout alterations, 44 Park Road, Kingston <a href='images/full-semi.gif'>(open full size)</a>">
+                </a>
                 <div class="nk-portfolio-item-image">
                     <div style="background-image: url('./images/thumb-semi.jpg');"></div>
                 </div>
@@ -151,9 +157,9 @@ layout: default
             </div>
         </div>
 
-        <div class="nk-isotope-item" data-filter="Print">
+        <div class="nk-isotope-item">
             <div class="nk-portfolio-item nk-portfolio-item-square nk-portfolio-item-info-style-1">
-                <a href="portfolio-single.html" class="nk-portfolio-item-link"></a>
+                <a href="portfolio-single.html" class="nk-portfolio-item-link modal-img"></a>
                 <div class="nk-portfolio-item-image">
                     <div style="background-image: url('./images/portfolio-4-sm.jpg');"></div>
                 </div>
@@ -175,30 +181,20 @@ layout: default
 <!-- START: Reviews -->
 <div class="nk-box bg-dark-1">
     <div class="bg-image bg-image-parallax" style="background-image: url('./images/bg-pattern.jpg');"></div>
-    <div class="nk-gap-5 mnt-6"></div>
-    <div class="nk-gap-3"></div>
+    <div class="nk-gap-4"></div>
     <div class="container-fluid">
         <div class="nk-carousel nk-carousel-all-visible text-white">
-            <div class="nk-carousel-inner">
-                <div>
-                    <div>
-                        <blockquote class="nk-blockquote-style-1 text-white">
-                            <p>Naomi did a brilliant job for us, helping my husband and I reach decisions on room layouts, and giving us ideas for design and space that worked within building regs. <br>
-                            We were delegated a tough planning officer but Naomi's negotiations helped us achieve our goal, and we are thrilled!</p>
-                            <cite>Juliette Chronnell</cite>
-                        </blockquote>
-                        <div class="nk-gap-3 mt-10"></div>
-                    </div>
-                </div>
-            </div>
+            <blockquote class="nk-blockquote-style-1 text-white">
+                <p>Naomi did a brilliant job for us, helping my husband and I reach decisions on room layouts, and giving us ideas for design and space that worked within building regs. <br>
+                We were delegated a tough planning officer but Naomi's negotiations helped us achieve our goal, and we are thrilled!</p>
+                <cite>Juliette Chronnell</cite>
+            </blockquote>
+            <div class="nk-gap-4 mt-10"></div>
         </div>
     </div>
-    <div class="nk-gap-4 mt-3"></div>
 </div>
 
-
 <div id="updates"></div>
-
 
 <div class="nk-box bg-gray-1" id="blog">
     <div class="nk-gap-5 mt-5"></div>
