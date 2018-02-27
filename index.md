@@ -38,6 +38,7 @@ layout: default
 <div id="about-us"></div>
 
 <div class="bg-white" id="about">
+    <div class="nk-gap-1"></div>
     <div class="container">
         <div class="row">
             <div class="col-lg-8 offset-lg-2 text-xs-center">
@@ -114,8 +115,7 @@ layout: default
 <div id="recent"></div>
 
 <div class="nk-box bg-white" id="projects">
-    <div class="nk-gap-4 mt-5"></div>
-
+    <div class="nk-gap-5 mt-5"></div>
     <h2 class="text-xs-center display-4">Recent Projects</h2>
     <div class="nk-gap-2 mt-12"></div>
     <div class="container">
@@ -197,11 +197,9 @@ layout: default
 <div id="updates"></div>
 
 <div class="nk-box bg-gray-1" id="blog">
-    <div class="nk-gap-5 mt-5"></div>
-
-    <h2 class="text-xs-center display-4">Updates</h2>
-
-    <div class="nk-gap-2 mt-12"></div>
+    <div class="nk-gap-6 mt-5"></div>
+    <h2 class="text-xs-center display-4" style="margin-top: 10px;">Updates</h2>
+    <div class="nk-gap-1 mt-12"></div>
     <div class="container">
 
         <div class="nk-carousel-2 nk-carousel-x2 nk-carousel-no-margin nk-carousel-all-visible nk-blog-isotope">
@@ -223,7 +221,7 @@ layout: default
                         <p>The department of communities and local governments chief planner reveals that a 20% planning fee increase will come into effect on 17th January 2018.</p>
                     </div>
                 </div>
-                <div class="nk-gap-1"></div>
+                <div class="nk-gap-1" id="contact"></div>
 
             </div>
         </div>
@@ -248,8 +246,8 @@ layout: default
  -->
 
 <!-- START: Contact Info -->
-<div class="container" id="contact">
-    <div class="nk-gap-5"></div>
+<div class="container">
+    <div class="nk-gap-4"></div>
     <div class="row vertical-gap">
         <div class="col-lg-5">
             <!-- START: Info -->
