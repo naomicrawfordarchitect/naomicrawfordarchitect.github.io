@@ -4,6 +4,25 @@
 h2.display-4 {
     padding-top: 28px;
 }
+.nk-navbar {
+    position: relative;
+}
+.nk-subtitle {
+    font-weight: 500;
+}
+.nk-header .overlay {
+    background: #000;
+    height: 100px;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    opacity: 0.25;
+}
+#sticky-wrapper.is-sticky .overlay {
+    display: none;
+}
 #sticky-wrapper.is-sticky .nk-navbar {
     background: #FFF;
 }
@@ -37,6 +56,9 @@ h2.display-4 {
     width: 144px;
     height: 50px;
     margin: 35px auto 0;
+}
+.nk-ibox-text {
+    text-transform: none !important;
 }
 
 /* News */

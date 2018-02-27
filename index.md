@@ -11,12 +11,11 @@ layout: default
             <div class="container">
 
                 <h1 class="nk-title display-3 text-white">
-                    We shape our buildings;
+                    Reconfiguration &
                     <br>
-                    <em class="fw-400">thereafter they shape us.</em>
+                    <em class="fw-400">New Build House Design</em>
                 </h1>
-                <h2 class="nk-subtitle text-white">Winston Churchill</h2>
-
+                <h2 class="nk-subtitle text-white">Architect based in Kingston-upon-Thames</h2>
 
                 <div class="nk-gap"></div>
                 <div class="nk-header-text text-white">
@@ -44,10 +43,10 @@ layout: default
             <div class="col-lg-8 offset-lg-2 text-xs-center">
                 <div class="nk-gap-4 mt-9"></div>
 
-                <h2 class="display-4">Canbury Architects</h2>
+                <h2 class="display-4">About</h2>
                 <div class="nk-gap mnt-5"></div>
 
-                <p>Canbury Architects is based in Kingston-upon-Thames and provides architectural design services for residential projects.
+                <p><b>renew</b> is based in Kingston-upon-Thames and provides architectural design services for residential projects.
                 </p>
                 <p>If you are considering extending or refurbishing your property, the right guidance can be crucial for obtaining the necessary approval and bringing your project in on budget.
                 </p>
@@ -66,22 +65,22 @@ layout: default
             <div class="col-md-6 col-lg-3">
                 <div class="nk-ibox-1">
                     <div class="nk-ibox-icon">
-                        <span class="pe-7s-way"></span>
+                        <span class="pe-7s-star"></span>
                     </div>
                     <div class="nk-ibox-cont">
-                        <div class="nk-ibox-title">Planning Permission</div>
-                        <div class="nk-ibox-text">What you need to know</div>
+                        <div class="nk-ibox-title">Permitted Development</div>
+                        <div class="nk-ibox-text">You may not need planning!</div>
                     </div>
                 </div>
             </div>
             <div class="col-md-6 col-lg-3">
                 <div class="nk-ibox-1">
                     <div class="nk-ibox-icon">
-                        <span class="pe-7s-id"></span>
+                        <span class="pe-7s-way"></span>
                     </div>
                     <div class="nk-ibox-cont">
-                        <div class="nk-ibox-title">Building Regulations</div>
-                        <div class="nk-ibox-text">How to pass inspection</div>
+                        <div class="nk-ibox-title">Planning Permission</div>
+                        <div class="nk-ibox-text">What you need to know</div>
                     </div>
                 </div>
             </div>
@@ -99,11 +98,11 @@ layout: default
             <div class="col-md-6 col-lg-3">
                 <div class="nk-ibox-1">
                     <div class="nk-ibox-icon">
-                        <span class="pe-7s-star"></span>
+                        <span class="pe-7s-id"></span>
                     </div>
                     <div class="nk-ibox-cont">
-                        <div class="nk-ibox-title">Permitted Development</div>
-                        <div class="nk-ibox-text">You may not need planning!</div>
+                        <div class="nk-ibox-title">The Process</div>
+                        <div class="nk-ibox-text">Getting your project started</div>
                     </div>
                 </div>
             </div>
@@ -212,7 +211,7 @@ layout: default
                         </a>
                     </div>
                     <h2 class="nk-post-title h4">
-                        <a target="_blank"  href="http://blog.planningportal.co.uk/2018/01/11/planning-application-fee-changes-pushed-into-2018/">Planning application fee changes in effect from 17 January 2018</a>
+                        <a target="_blank"  href="http://blog.planningportal.co.uk/2018/01/11/planning-application-fee-changes-pushed-into-2018/">Planning Application Fee Changes In Effect From 17 January 2018</a>
                     </h2>
                     <div class="nk-post-date">
                         January 11, 2018
@@ -257,7 +256,7 @@ layout: default
             <p>Please get in touch with your contact details (email address and/or phone number),
                 and a short summary of your enquiry.</p>
             <p class="privacy">
-                Canbury Architects is committed to ensuring that your privacy is protected.
+                renew Architects is committed to ensuring that your privacy is protected.
                 All data is handled <a target="_blank" href="https://support.google.com/googlecloud/answer/6057301">securely by Google</a> and will be used solely for correspondence.
             </p>
             <!-- END: Info -->
