@@ -46,10 +46,36 @@ layout: default
                 <h2 class="display-4">About</h2>
                 <div class="nk-gap mnt-5"></div>
 
-                <p><b>renew</b> is based in Kingston-upon-Thames and provides architectural design services for residential projects.
+                <p>
+                    <b class="logo">renew</b> is based in Kingston-upon-Thames and provides architectural design services for residential projects.
+                    Bringing over 10 years of architectural experience, we provide tailored yet affordable design services to residential customers looking to improve their homes and lifestyles.
                 </p>
-                <p>If you are considering extending or refurbishing your property, the right guidance can be crucial for obtaining the necessary approval and bringing your project in on budget.
+                <p>
+                    If you are considering extending, refurbishing or reconfiguring your property, the right guidance can be crucial for obtaining the necessary approvals and bringing your project in on budget. At <b class="logo">renew</b> we offer fixed price services set out in a step by step process to assist you in getting your project started.
                 </p>
+                <div class="package-details">
+                    A fixed price Design and Planning package will include:
+                    <ul>
+                        <li>A measured survey</li>
+                        <li>Design options</li>
+                        <li>Existing and proposed site plans, floor plans and elevations</li>
+                        <li>Planning advice</li>
+                        <li>Coordination of any necessary consultants, if required</li>
+                        <li>Reasonable revisions to your design</li>
+                        <li>Submission to local authority using the online Planning Portal</li>
+                    </ul>
+                </div>
+                <p>
+                    If you dream of open plan living, or need a utility room or entrance hall to accommodate your family’s needs, then a home extension could eliminate the hassle of moving house and allow you to create new spaces.
+                    <br>
+                    A loft conversion can also provide an extra couple of extra bedrooms, or a new master bedroom suite if you have outgrown your property.
+                    <br>
+                    We can help you to create elegant, tailored living solutions that add value and desirability to your property.
+                </p>
+                <p>
+                    <i>Areas served: Kingston-upon-Thames, Richmond, New Malden, Wimbledon, Epsom.</i>
+                </p>
+
                 <div class="arb-logo"></div>
                 <div class="nk-gap-4 mt-25"></div>
             </div>
@@ -69,7 +95,7 @@ layout: default
                     </div>
                     <div class="nk-ibox-cont">
                         <div class="nk-ibox-title">Permitted Development</div>
-                        <div class="nk-ibox-text">You may not need planning!</div>
+                        <div class="nk-ibox-text">You may not need planning</div>
                     </div>
                 </div>
             </div>
@@ -254,9 +280,9 @@ layout: default
             <div class="nk-gap mnt-3"></div>
 
             <p>Please get in touch with your contact details (email address and/or phone number),
-                and a short summary of your enquiry.</p>
+                and a short summary of your enquiry. </p>
             <p class="privacy">
-                renew Architects is committed to ensuring that your privacy is protected.
+                <b class="logo">renew</b> is committed to ensuring that your privacy is protected.<br>
                 All data is handled <a target="_blank" href="https://support.google.com/googlecloud/answer/6057301">securely by Google</a> and will be used solely for correspondence.
             </p>
             <!-- END: Info -->
@@ -289,7 +315,7 @@ layout: default
             <div class="required-message">This is a required question</div>
             </div></div></div> <div class="ss-form-question errorbox-good" role="listitem">
             <div dir="auto" class="ss-item ss-item-required ss-paragraph-text"><div class="ss-form-entry">
-            <label class="ss-q-item-label" for="entry_992584314"><div class="ss-q-title">Nature of enquiry
+            <label class="ss-q-item-label" for="entry_992584314"><div class="ss-q-title">Nature of enquiry <i>(please include the location of the property.)</i>
             <label for="itemView.getDomIdToLabel()" aria-label="(Required field)"></label>
             <span class="ss-required-asterisk" aria-hidden="true">*</span></div>
             <div class="ss-q-help ss-secondary-text" dir="auto"></div></label>
