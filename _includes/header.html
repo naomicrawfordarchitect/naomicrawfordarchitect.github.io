@@ -29,8 +29,8 @@
         <div class="container">
             <div class="nk-nav-table">
                 <a href="index.html" class="nk-nav-logo">
-                    <img src="./images/logo-renew-light.png" alt="" width="136" class="nav-logo-light">
-                    <img src="./images/logo-renew-dark.png" alt="" width="136" class="nav-logo-dark">
+                    <img src="./images/logo-renew-light.png" alt="renew" class="nav-logo nav-logo-light">
+                    <img src="./images/logo-renew-dark.png" alt="renew" class="nav-logo nav-logo-dark">
                 </a>
 
                 <ul class="nk-nav nk-nav-right hidden-md-down" data-nav-mobile="#nav-mobile">
@@ -55,37 +55,24 @@
 
 <!-- Mobile Nav -->
 <nav class="nk-navbar nk-navbar-full nk-navbar-align-center" id="nav-mobile">
-    <div class="nk-nav-table">
-        <div class="nk-nav-row">
-            <div class="container">
-                <div class="nk-nav-header">
-
-                    <div class="nk-nav-logo">
-                        <a href="index.html" class="nk-nav-logo">
-                            <img src="./images/logo-renew-light.png" alt="" width="136">
-                        </a>
-                    </div>
-
-                    <div class="nk-nav-close nk-navbar-full-toggle">
-                        <span class="nk-icon-close"></span>
-                    </div>
+        <div class="container">
+            <div class="nk-nav-header">
+                <div class="nk-nav-logo">
+                    <a href="index.html" class="nk-nav-logo">
+                        <img src="./images/logo-renew-light.png" alt="renew" class="nav-logo">
+                    </a>
+                </div>
+                <div class="nk-nav-close nk-navbar-full-toggle">
+                    <span class="nk-icon-close"></span>
                 </div>
             </div>
         </div>
-
-        <div class="nk-nav-row-full nk-nav-row">
-            <div class="nano">
-                <div class="nano-content">
-                    <div class="nk-nav-table">
-                        <div class="nk-nav-row nk-nav-row-full nk-navbar-mobile-content">
-                            <ul class="nk-nav">
-                                {% include nav-links.html %}
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
+        <div class="mobile-links-wrapper">
+            <ul class="mobile-links">
+                {% include nav-links.html %}
+            </ul>
         </div>
+
         <!-- <div class="nk-nav-row">
             <div class="container">
                 <div class="nk-nav-social">
