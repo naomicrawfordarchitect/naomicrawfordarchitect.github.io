@@ -47,11 +47,8 @@ layout: default
                 <div class="nk-gap mnt-5"></div>
 
                 <p>
-                    <b class="logo">renew</b> is based in Kingston-upon-Thames and provides architectural design services for residential projects.
-                    Bringing over 10 years of architectural experience, we provide tailored yet affordable design services to residential customers looking to improve their homes and lifestyles.
-                </p>
-                <p>
-                    If you are considering extending, refurbishing or reconfiguring your property, the right guidance can be crucial for obtaining the necessary approvals and bringing your project in on budget. At <b class="logo">renew</b> we offer fixed price services set out in a step by step process to assist you in getting your project started.
+                    <b class="logo">Naomi Crawford</b> is an Architect based in Kingston upon Thames, providing architectural design services for residential projects.
+                    If you are considering extending, refurbishing or reconfiguring your property, the right guidance can be crucial for obtaining the necessary approvals and bringing your project in on budget.
                 </p>
                 <div class="package-details">
                     A fixed price Design and Planning package will include:
@@ -282,7 +279,6 @@ layout: default
             <p>Please get in touch with your contact details (email address and/or phone number),
                 and a short summary of your enquiry. </p>
             <p class="privacy">
-                <b class="logo">renew</b> is committed to ensuring that your privacy is protected.<br>
                 All data is handled <a target="_blank" href="https://support.google.com/googlecloud/answer/6057301">securely by Google</a> and will be used solely for correspondence.
             </p>
             <!-- END: Info -->

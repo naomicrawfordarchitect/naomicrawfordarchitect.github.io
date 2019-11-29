@@ -34,6 +34,10 @@ h2.display-4 {
 }
 .nav-logo {
     width: 136px;
+    font-family: Playfair Display, serif;
+    font-size: 1.7rem;
+    font-weight: 700;
+    white-space: nowrap;
 }
 .nk-navbar-top,
 .nk-nav-header {
@@ -46,9 +50,11 @@ h2.display-4 {
     padding-top: 4px;
 }
 #sticky-wrapper .nav-logo-light {
+  color: white;
     display: block;
 }
 #sticky-wrapper .nav-logo-dark {
+    color: #444;
     display: none;
 }
 #sticky-wrapper.is-sticky .nav-logo-light {
