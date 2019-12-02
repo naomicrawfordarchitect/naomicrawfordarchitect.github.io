@@ -1,9 +1,9 @@
 @charset "UTF-8";
 
 /* Tweaks */
-h2.display-4 {
+/* h2.display-4 {
     padding-top: 28px;
-}
+} */
 .nk-navbar {
     position: relative;
 }
@@ -120,8 +120,6 @@ b.logo {
     margin: 10px 0 20px;
     padding: 14px 20px 14px 10px;
     font-weight: bold;
-    border-top-right-radius: 20px;
-    border-bottom-right-radius: 20px;
 }
 .package-details ul {
     text-align: left;
