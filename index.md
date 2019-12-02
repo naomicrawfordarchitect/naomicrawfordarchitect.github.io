@@ -15,7 +15,7 @@ layout: default
                     <br>
                     <em class="fw-400">New Build House Design</em>
                 </h1>
-                <h2 class="nk-subtitle text-white">Architect based in Kingston-upon-Thames</h2>
+                <h2 class="nk-subtitle text-white">Architect based in Kingston upon Thames</h2>
 
                 <div class="nk-gap"></div>
                 <div class="nk-header-text text-white">
@@ -70,7 +70,7 @@ layout: default
                     We can help you to create elegant, tailored living solutions that add value and desirability to your property.
                 </p>
                 <p>
-                    <i>Areas served: Kingston-upon-Thames, Richmond, New Malden, Wimbledon, Epsom.</i>
+                    <i>Areas served: Kingston upon Thames, Richmond, New Malden, Wimbledon, Epsom.</i>
                 </p>
 
                 <div class="arb-logo"></div>
@@ -154,7 +154,7 @@ layout: default
                 </div>
                 <div class="nk-portfolio-item-info nk-portfolio-item-info-center text-xs-center">
                     <div>
-                        <h2 class="portfolio-item-title h3">Loft Extension</h2>
+                        <h3 class="portfolio-item-title h3">Loft Extension</h3>
                         <div class="portfolio-item-category">55 Clifton Road, Kingston</div>
                     </div>
                 </div>
@@ -172,7 +172,7 @@ layout: default
                 </div>
                 <div class="nk-portfolio-item-info nk-portfolio-item-info-center text-xs-center">
                     <div>
-                        <h2 class="portfolio-item-title h3">Rear extension and layout alterations</h2>
+                        <h3 class="portfolio-item-title h3">Rear extension and layout alterations</h3>
                         <div class="portfolio-item-category">44 Park Road, Kingston</div>
                     </div>
                 </div>
@@ -187,7 +187,7 @@ layout: default
                 </div>
                 <div class="nk-portfolio-item-info nk-portfolio-item-info-center text-xs-center">
                     <div>
-                        <h2 class="portfolio-item-title h3">Rear extension and layout alterations</h2>
+                        <h3 class="portfolio-item-title h3">Rear extension and layout alterations</h3>
                         <div class="portfolio-item-category">44 Park Road, Kingston</div>
                     </div>
                 </div>
