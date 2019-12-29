@@ -80,8 +80,6 @@ layout: default
     </div>
 </div>
 
-<div id="recent"></div>
-
 <div class="nk-box bg-dark-1 text-white">
     <div class="bg-image bg-image-parallax" style="background-image: url('./images/bg-pattern.jpg');"></div>
     <div class="nk-gap-5 mnt-6"></div>
@@ -133,6 +131,9 @@ layout: default
             </div>
         </div>
     </div>
+    <!-- Temp -->
+    <div id="recent"></div>
+    <!-- /Temp -->
     <div class="nk-gap-5 mnt-6"></div>
 </div>
 
