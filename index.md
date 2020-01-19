@@ -276,7 +276,7 @@ layout: default
     <div class="row vertical-gap">
         <div class="col-lg-5">
             <!-- START: Info -->
-            <h2 class="display-4">Contact Us</h2>
+            <h2 class="display-4">Contact</h2>
             <div class="nk-gap mnt-3"></div>
 
             <p>Please get in touch with your contact details (email address and/or phone number),
