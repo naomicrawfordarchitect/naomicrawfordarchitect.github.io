@@ -49,13 +49,13 @@
 .nk-navbar .nk-nav-right {
     padding-top: 4px;
 }
-#sticky-wrapper .nav-logo-light {
+.nav-logo-light {
   color: white;
-    display: block;
+  display: block;
 }
-#sticky-wrapper .nav-logo-dark {
-    color: #444;
-    display: none;
+.nav-logo-dark {
+  color: #444;
+  display: none;
 }
 #sticky-wrapper.is-sticky .nav-logo-light {
     display: none;
