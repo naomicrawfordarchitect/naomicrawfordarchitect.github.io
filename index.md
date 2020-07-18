@@ -246,7 +246,6 @@ layout: default
                         <p>The department of communities and local governments chief planner reveals that a 20% planning fee increase will come into effect on 17th January 2018.</p>
                     </div>
                 </div>
-                <div class="nk-gap-1" id="contact"></div>
 
             </div>
         </div>
@@ -255,87 +254,3 @@ layout: default
     <div class="nk-gap-1"></div>
 </div>
 <!-- END: Blog -->
-
-
-<!-- Cost Estimator
-<div id="estimator"></div>
-
-<div class="nk-box bg-dark-1">
-    <div class="container-fluid">
-        <div class="cost-estimator">
-            <h1>Cost Estimator</h1>
-            <div id="app"></div>
-        </div>
-    </div>
-</div>
- -->
-
-<!-- START: Contact Info -->
-<div class="container">
-    <div class="nk-gap-4"></div>
-    <div class="row vertical-gap">
-        <div class="col-lg-5">
-            <!-- START: Info -->
-            <h2 class="display-4">Contact</h2>
-            <div class="nk-gap mnt-3"></div>
-
-            <p>Please get in touch with your contact details (email address and/or phone number),
-                and a short summary of your enquiry. </p>
-            <p class="privacy">
-                All data is handled <a target="_blank" href="https://support.google.com/googlecloud/answer/6057301">securely by Google</a> and will be used solely for correspondence.
-            </p>
-            <!-- END: Info -->
-        </div>
-        <div class="col-lg-7">
-            <div class="form-area-spacer"></div>
-            <!-- Form -->
-            <!-- Paste here from source code of google form live preview -->
-            <form action="https://docs.google.com/forms/d/e/1FAIpQLSdjJeNRCdtuqKpGh7oZ9KSqmdVuVkwr0v0c1izcdaMLpeRv9Q/formResponse" method="POST" id="ss-form" target="_self" autocomplete="on" onsubmit=""><ol role="list" class="ss-question-list" style="padding-left: 0;">
-
-            <div class="ss-form-question errorbox-good" role="listitem">
-            <div dir="auto" class="ss-item ss-item-required ss-text"><div class="ss-form-entry">
-            <label class="ss-q-item-label" for="entry_861568060"><div class="ss-q-title">Your name
-            <label for="itemView.getDomIdToLabel()" aria-label="(Required field)"></label>
-            <span class="ss-required-asterisk" aria-hidden="true">*</span></div>
-            <div class="ss-q-help ss-secondary-text" dir="auto"></div></label>
-
-            <input type="text" name="entry.861568060" value="" class="ss-q-short" id="entry_861568060" dir="auto" aria-label="Your name  " aria-required="true" required="" title="">
-            <div class="error-message" id="1549006733_errorMessage"></div>
-            <div class="required-message">This is a required question</div>
-            </div></div></div> <div class="ss-form-question errorbox-good" role="listitem">
-            <div dir="auto" class="ss-item ss-item-required ss-paragraph-text"><div class="ss-form-entry">
-            <label class="ss-q-item-label" for="entry_89267251"><div class="ss-q-title">Contact details
-            <label for="itemView.getDomIdToLabel()" aria-label="(Required field)"></label>
-            <span class="ss-required-asterisk" aria-hidden="true">*</span></div>
-            <div class="ss-q-help ss-secondary-text" dir="auto"></div></label>
-
-            <textarea name="entry.89267251" rows="8" cols="0" class="ss-q-long" id="entry_89267251" dir="auto" aria-label="Contact details  " aria-required="true" required=""></textarea>
-            <div class="error-message" id="1571739522_errorMessage"></div>
-            <div class="required-message">This is a required question</div>
-            </div></div></div> <div class="ss-form-question errorbox-good" role="listitem">
-            <div dir="auto" class="ss-item ss-item-required ss-paragraph-text"><div class="ss-form-entry">
-            <label class="ss-q-item-label" for="entry_992584314"><div class="ss-q-title">Nature of enquiry <i>(please include the location of the property.)</i>
-            <label for="itemView.getDomIdToLabel()" aria-label="(Required field)"></label>
-            <span class="ss-required-asterisk" aria-hidden="true">*</span></div>
-            <div class="ss-q-help ss-secondary-text" dir="auto"></div></label>
-
-            <textarea name="entry.992584314" rows="8" cols="0" class="ss-q-long" id="entry_992584314" dir="auto" aria-label="Nature of enquiry  " aria-required="true" required=""></textarea>
-            <div class="error-message" id="121748955_errorMessage"></div>
-            <div class="required-message">This is a required question</div>
-            </div></div></div>
-            <input type="hidden" name="draftResponse" value="[null,null,&quot;5045223902075283324&quot;]
-            ">
-            <input type="hidden" name="pageHistory" value="0">
-
-            <input type="hidden" name="fbzx" value="5045223902075283324">
-            <div class="ss-send-email-receipt" style="margin-bottom: 4px;" dir="ltr"><label for="emailReceipt" style="display:inline;"></label></div>
-            <div class="ss-item ss-navigate"><table id="navigation-table"><tbody><tr><td class="ss-form-entry goog-inline-block" id="navigation-buttons" dir="ltr">
-            <input type="submit" name="submit" value="Submit" id="ss-submit" class="jfk-button jfk-button-action ">
-            <div class="ss-password-warning ss-secondary-text">Never submit passwords through Google Forms.</div></td>
-            </tr></tbody></table></div></ol></form>
-            <!-- END: Form -->
-
-        </div>
-    </div>
-    <div class="nk-gap-5"></div>
-</div>

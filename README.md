@@ -16,15 +16,3 @@ Dev
 - `./run.sh`
 
 Then visit `http://localhost:4000`
-
-Estimator
----------
-The estimator is built using React so dev is separate.
-
-- `cd estimator`
-- `npm i`
-- `gulp`
-
-Then visit `http://localhost:8080`
-
-NOTE: An optimised build is available via `gulp prod`.
